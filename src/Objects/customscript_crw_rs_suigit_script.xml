@@ -1,0 +1,22 @@
+<restlet scriptid="customscript_crw_rs_suigit_script">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>CSS RS Suigit Restlet</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/crw_rs_suigit_script.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_crw_rs_suigit_script">
+      <allemployees>T</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>TESTING</status>
+      <title>CSS RS Suigit Restlet</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</restlet>
